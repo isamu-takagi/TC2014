@@ -1,0 +1,10 @@
+*
+!src
+!src/*
+src/*.pro.user
+!mk
+!mk/*
+!makefile
+!manual.txt
+!route-editor.conf
+!.gitignore

@@ -1,0 +1,24 @@
+[tkg-route-editor2 Manual]
+
+起動
+
+	./launcher
+	Release/route-editor -g <config>
+
+コマンド
+
+	Ctrl + S                上書き保存
+	Ctrl + Z                元に戻す
+
+操作
+
+	マウス左（ドラッグ）         視点移動
+	マウス右（ドラッグ）         waypoint移動
+	マウス右（ダブルクリック)    waypoint追加
+							waypoint削除(ノード上)
+							waypoint挿入(エッジ上)
+
+テーブル編集
+
+	No以外全て変更可能
+
